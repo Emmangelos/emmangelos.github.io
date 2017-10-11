@@ -6,14 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ABOUT THE THING YOU'RE LOOKING AT
+title: pardon the dust. 
+subtitle: Portfolio
 email: emmangelos666@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This site was started as a web design portfolio, 
   but may develop into something worse. Like a 
   series of bad vignettes about eating macaroni and
   cheese in a thunderstorm. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "http://emmangelos.de" # the base hostname & protocol for your site
 twitter_username: what  
 github_username:  emmangelos
