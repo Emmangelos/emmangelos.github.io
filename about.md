@@ -7,7 +7,7 @@ permalink: /about/
 A learn-ding project portfolio by Emm Angelos Deneris. 
 
 About The Author:
-<br/> I live in Salt Lake City, Utah, which comes with a lot of nearby, beautiful wilderness to explore and an innate sense of [impending doom][impendingdoom]. I play with DNA on a professional basis, work on my lorry on a weekend basis, don't trust the internet, teach English as a second language, go fishing, and daydream about having an aquaponics greenhouse. 
+<br/> I live in Salt Lake City, Utah, which comes with a lot of nearby, beautiful wilderness to explore and an innate sense of [impending doom][impendingdoom]. I play with DNA on a professional basis, work on my lorry on a weekend basis, don't trust the internet, teach English as a second language, go fishing, and daydream about having an aquaponics greenhouse. Trying to learn computer. 
 
 
 
