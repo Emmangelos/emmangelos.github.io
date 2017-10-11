@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+A learn-ding project portfolio by Emm Angelos Deneris. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+About The Author:
+I'm a Utah native, which comes with a lot of beautiful wilderness to
+explore and an innate sense of [impending doom][impending-doom]. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[impending-doom]:https://en.wikipedia.org/wiki/Wasatch_Fault
