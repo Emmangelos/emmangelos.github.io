@@ -22,4 +22,4 @@ github_username:  emmangelos
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
